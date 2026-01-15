@@ -1,0 +1,7 @@
+{
+  "name": "AuraGold Order & Collection Manager ver2",
+  "description": "A high-end backend system for gold jewelry sellers to manage orders, calculate complex pricing, design custom payment plans, and use AI-driven reminders for collection management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
